@@ -25,7 +25,6 @@ Gluestack is a UI component library that provides a set of pre-built components 
 1. Install dependencies
 
 ```bash
-cd app
 npm ci
 ```
 
