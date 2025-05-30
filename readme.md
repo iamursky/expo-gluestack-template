@@ -22,13 +22,15 @@ Gluestack is a UI component library that provides a set of pre-built components 
 
 ## Running in Development Mode
 
-1. Install dependencies
+1. [Set up your environment](https://docs.expo.dev/get-started/set-up-your-environment/)
+
+2. Install dependencies
 
 ```bash
 npm ci
 ```
 
-2. Start the development server and follow instructions in the terminal
+3. Start the development server and follow instructions in the terminal
 
 ```bash
 npm run ios
